@@ -1,0 +1,60 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  border-style: double;
+  padding: 10px;
+  margin: 10px;
+}
+
+.main-heading{
+  text-decoration: underline;
+  text-align: center;
+}
+
+.header2{
+  text-decoration: underline;
+}
+
+.citam-logo{
+  height: 100px;
+  width: 100px;
+}
+
+.codinglogo{
+  float: right;
+  height: 100px;
+  width: 100px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 200px;
+  width: 200px;
+}
+
+.codingclub{
+  text-decoration: underline;
+  text-align: center;
+}
+
+.members{
+  background-color: greenyellow;
+        color: darkblue;
+        border-radius: 5px;
+        font-weight: bold;
+        height: 80px;
+        overflow: scroll;
+        border-collapse: collapse;
+        width: 25%;
+        font-size: large;
+}
+
+.strong{
+  text-decoration: underline;
+  font-weight: bold;
+  color: blue;
+}
+

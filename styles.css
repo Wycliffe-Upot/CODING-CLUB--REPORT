@@ -48,7 +48,8 @@ body{
         height: 80px;
         overflow: scroll;
         border-collapse: collapse;
-        width: 25%;
+        width: 100%;
+        text-align:justify;
         font-size: large;
 }
 
